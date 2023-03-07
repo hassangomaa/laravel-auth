@@ -8,7 +8,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/laravel-auth.git
+git clone https://github.com/hassangomaa/laravel-auth.git
 Install dependencies:
 bash
 Copy code
